@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+
+}   
+
+body{
+    background: url(bg.jpg);
+    background-size: 280%;
+    font-family: 'Gabarito', sans-serif;
+    color:white;
+}
+h1{
+    text-align: center;
+    margin: 10px 20px;
+
+}
+.class{
+    align-items: center;
+    
+}
+.form{
+    align-items: center;
+}
+div{
+    align-items: center;
+}
